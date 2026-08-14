@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*.cookie
+*.cookies
+cookies.txt
+credentials.json
+secrets.json
+__pycache__/
+*.pyc

@@ -1,0 +1,4 @@
+interface:
+  display_name: "禅道 Bug 修复"
+  short_description: "读取禅道工单并完成定位、修复、验证、Review 与 SVN 提交"
+  default_prompt: "使用 $zentao-bug-fix 处理禅道 Bug，完成修复、验证、Review 和 SVN 提交。"
